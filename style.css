@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(114, 114, 235);
+    text-align: center;
+}
+p {
+    color: aliceblue;
+}
+h1 {
+font-style: italic;
+}
+.expresso {
+color: black;
+}
+.reptv {
+    width: 50%
+}
